@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Zhangzhang&#39;s blog</title>
+        <link>https://example.com/</link>
+        <description>Recent content on Zhangzhang&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>https://example.com/p/hello-world/</link>
+        <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/hello-world/</guid>
+        <description>&lt;h2 id=&#34;重生之我是张猪猪&#34;&gt;重生之我是张猪猪&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
