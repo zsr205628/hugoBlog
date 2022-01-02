@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Zhangzhang's blog
+title: Zhangzhang's Blog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
