@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://aeternuszz.xyz
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: lucky
+        subtitle: one day
         avatar:
             enabled: true
             local: true
@@ -182,7 +182,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/zsr205628
           params:
             icon: brand-github
             
