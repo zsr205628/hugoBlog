@@ -1,6 +1,6 @@
 ---
 title: 'Happy New Year'
-description: '...'
+description: ''
 date: '2022-01-02'
 slug: 'hello-world'
 image: unsplash1.jpg
