@@ -8,5 +8,5 @@ categories:
     - 新年
 ---
 
-### Wish
-Hope our friendship will last forever
+### 2022/3/6
+新年小愿望 尽快见到小高
