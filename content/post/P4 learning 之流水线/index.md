@@ -1,11 +1,12 @@
 ---
 title: 'P4 learning 之 "Parser" "Table" "Action" "Control" "Deparser"'
 description: ''
-date: '2022-01-02'
-slug: 'p4'
+date: '2022-03-09'
+slug: 'p4_1'
 image: p1.png
 categories: 
     - learning
+    - P4
 ---
 
 ## "Parser"

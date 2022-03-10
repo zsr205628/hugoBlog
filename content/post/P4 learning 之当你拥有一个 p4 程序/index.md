@@ -1,11 +1,12 @@
 ---
 title: 'P4 learning 之当你拥有一个 p4 程序'
-description: 'run it！'
-date: '2022-01-02'
+description: ''
+date: '2022-02-28'
 slug: 'p4'
 image: p1.png
 categories: 
     - learning
+    - P4
 ---
 
 ## 编译 p4 程序
